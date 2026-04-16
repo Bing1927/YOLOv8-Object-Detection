@@ -1,0 +1,11 @@
+# Pascal VOC & Dataset structure
+/data/VOCdevkit/
+/data/raw_tar/
+/data/yolo_format/
+/results/validation_samples/
+
+# Python cache & env
+__pycache__/
+*.py[cod]
+*$py.class
+scratch.py
