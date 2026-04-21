@@ -1,0 +1,3 @@
+﻿"Model","Role","Epochs","Batch","ImageSize","Precision","Recall","mAP50","mAP50-95","TrainingTimeSeconds","ResultPath"
+"YOLOv8n","Baseline","50","16","640","0.78427","0.67406","0.75183","0.5315","28875.1","models/baseline/runs/detect/train8/results.csv"
+"YOLOv8s","Comparison model","50","16","640","0.78708","0.70484","0.77526","0.56279","15176.1","models/YOLOv8s/results.csv"
